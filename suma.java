@@ -1,10 +1,7 @@
-1.
-2. int numero1 = 0;
-3. int numero2 = 0;
-4.
-5. System.out.println("Enter first number");			
-6. numero1 = reader.nextInt();
-7. 
-8. System.out.println("Enter the second number:");
-9. numero2 = reader.nextInt() 
-10.
+int numero1 = 0;
+int numero2 = 0;
+System.out.println("Enter first number");			
+numero1 = reader.nextInt();
+ 
+System.out.println("Enter the second number:");
+numero2 = reader.nextInt() 
